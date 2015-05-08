@@ -1,0 +1,4 @@
+applications:
+- name: dashing-docker
+  docker_image: frvi/dashing:latest
+  mem: 256M

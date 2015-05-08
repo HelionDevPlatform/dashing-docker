@@ -3,6 +3,11 @@ Run [Dashing](http://dashing.io/) in a [Docker](http://docker.io/) container.
 
 Link: [frvi/dashing](https://registry.hub.docker.com/u/frvi/dashing/)
 
+## Run on Stackato
+
+```
+stackato push -n
+```
 
 ## Run
 ```docker run -d -p 8080:3030 frvi/dashing```
