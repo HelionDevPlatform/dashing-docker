@@ -3,7 +3,7 @@ Run [Dashing](http://dashing.io/) in a [Docker](http://docker.io/) container.
 
 Link: [frvi/dashing](https://registry.hub.docker.com/u/frvi/dashing/)
 
-## Run on Stackato
+## Run on HPE Helion Stackato
 
 ```
 stackato push -n
